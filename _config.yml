@@ -78,16 +78,7 @@ coursera:
 github:
  - harishkadamudi/spring-integration-samples
  - harishkadamudi/HarishExamples
- - robhinds/twitter-sentiment-analysis
- - robhinds/spring-reactor-twitter
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/food2vec
- - robhinds/SpringMongoIntegrationExample
- - robhinds/SpringNeo4JWebApp
- - robhinds/AndroidChuckQuiz
- - robhinds/AndroidRssReader
+
 
 #Stackoverflow flair is optional
 stackoverflow:
