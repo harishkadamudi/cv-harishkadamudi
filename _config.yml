@@ -92,7 +92,7 @@ github:
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: http://stackoverflow.com/users/974065/harish-kadamudi
-   #flairimageurl: http://stackoverflow.com/users/flair/258813.png
+   flairimageurl: http://stackoverflow.com/users/flair/974065.png
 
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
