@@ -77,7 +77,7 @@ coursera:
 #List of interesting Github repo/projects to include - optional
 github:
  - harishkadamudi/spring-integration-samples
- - robhinds/akka-http-rest-api-sample
+ - harishkadamudi/HarishExamples
  - robhinds/twitter-sentiment-analysis
  - robhinds/spring-reactor-twitter
  - robhinds/microservices
