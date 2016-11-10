@@ -78,7 +78,18 @@ coursera:
 github:
  - harishkadamudi/spring-integration-samples
  - harishkadamudi/HarishExamples
-
+ - harishkadamudi/spring-mongodb
+ - harishkadamudi/spring-multi-model
+ - harishkadamudi/spring-elk
+ - harishkadamudi/hystrix-examples
+ - spring-cloud-netflixOS-stack
+ - harishkadamudi/jenkins_ws
+ - harishkadamudi/Maven-Example
+ - harishkadamudi/ScalaExamples
+ - harishkadamudi/jms
+ - harishkadamudi/spring-integration-samples
+ - harishkadamudi/SpringExtJs
+ 
 
 #Stackoverflow flair is optional
 stackoverflow:
