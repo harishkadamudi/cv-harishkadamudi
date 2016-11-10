@@ -90,8 +90,8 @@ github:
  - robhinds/AndroidRssReader
 
 #Stackoverflow flair is optional
-stackoverflow:
-   profileurl: http://stackoverflow.com/users/974065/harish-kadamudi
+#stackoverflow:
+   #profileurl: http://stackoverflow.com/users/974065/harish-kadamudi
    #flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 
