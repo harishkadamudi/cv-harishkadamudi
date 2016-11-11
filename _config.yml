@@ -54,11 +54,31 @@ roles:
    end: Ongoing
    employer: Nous Info System.
    description: FolioDynamix is leading the evolution of the wealth management experience, with an end-to-end technology solution paired with a suite of advisory tools including model portfolios, research, and overlay management services.
-#Roles and Responsibilites
-responsibilities:
- -	Understanding Wealth Management Domain, Analyzing, Designing & Delivering highly complex customer requirements.
- -	As a team lead, Create an environment oriented to trust, open communication, creative thinking, and cohesive team effort, Coach and help develop team members help resolve dysfunctional behavior
 
+#Roles and Responsibilites
+Responsibilites:
+ - Docker
+ - Docker Compose
+ - Hystrix
+ - Micro Service Architecture
+ - NGINX API
+ - MongoDB
+ - Spring JDBC
+ - Spring MVC
+ - Spring Boot
+ - Spring Core
+ - Spring Integration
+ - Spring WebFlow
+ - Spring REST
+ - REST
+ - Hibernate
+ - Activiti Workflow
+ - JBoss BPM
+ - Java
+ - J2EE
+ - Ext Js
+ - Tech Architecture
+ 
 #Education is required
 education:
  - level: Bachelor of Engineering (B.E)
