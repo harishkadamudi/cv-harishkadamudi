@@ -78,21 +78,20 @@ education:
    school: KNSIT
 
 #This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-   courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+#coursera:
+  # profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+   #courses:
+    #- title: Functional Programming Principles in Scala
+     # link: https://www.coursera.org/course/progfun
+      #optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+      #date: September 16, 2013
+    #- title: Algorithms Design and Analysis, Part 1
+     # link: https://www.coursera.org/course/progfun
+      #optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
+      #date: April 28, 2014
 
 #List of interesting Github repo/projects to include - optional
 github:
- - harishkadamudi/spring-integration-samples
  - harishkadamudi/HarishExamples
  - harishkadamudi/spring-mongodb
  - harishkadamudi/spring-multi-model
@@ -118,6 +117,6 @@ additionalinfo: |
    <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have extensively worked on Spring MVC, Spring Boot, Hibernate frameworkds.
    I have rich set of experience in designing and developing Microservice application using frameworks like nginx, Ribbon,Spring Boot and containers like Docker & Docker Compose.<br/><br/>
    <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC/REST framework. I have also worked with client side technology, having used Ext JS, Javascript, Angular2,jQuery, Bootstrap, LESS, SASS and have also experimented with other interesting technologies such as Backbone/Underscore/Require.<br/><br/>
-   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
-   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/Parse. <br/><br/>
+   <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git,CVS, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
+   I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as Amazon AWS/CloudFoundry/OpenShift/AppFog/Parse. <br/><br/>
    I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="https://techypark.wordpress.com/">https://techypark.wordpress.com/</a>.
