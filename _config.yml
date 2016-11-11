@@ -54,7 +54,22 @@ roles:
    end: Ongoing
    employer: Nous Info System.
    description: FolioDynamix is leading the evolution of the wealth management experience, with an end-to-end technology solution paired with a suite of advisory tools including model portfolios, research, and overlay management services.
-
+- title: Senior Software Engineer
+   start: June 2013
+   end: Nov 2015
+   employer: HCL Technologies.
+   description: Deutsche Bank.
+- title: Software Engineer
+   start: Aug 2012
+   end: May 2013
+   employer: SPI Products, Platforms & Solutions.
+   description: Trade Flow Optimization.
+- title: Software Engineer
+   start: Aug 2010
+   end: July 2012
+   employer: Core Business Software Solutions.
+   description: Benir E-Store Solutions.
+   
 #Roles and Responsibilites
 Responsibilites:
  - Responsible for Architecturing Legacy Application(Multi page application) to Advisory Portal Application(Single Page Application) using REST architecture and Ext JS 6.0.
