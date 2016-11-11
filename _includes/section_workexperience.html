@@ -32,4 +32,11 @@
 	<div class="top-rounded-panel grey-bg">
 		<h1>Roles and Responsibilities:</h1>
 	</div>
+	<div class="content-rounded-panel">
+	<div id="responsibilities">
+			{% for responsibility in site.responsibilities %}
+				<span> {{responsibility}} </span> &nbsp;  
+			{% endfor %}
+	</div>
+	</div>
 </div>
