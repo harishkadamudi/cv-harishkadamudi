@@ -53,7 +53,7 @@ roles:
    start: 2014
    end: Ongoing
    employer: Nous Info System.
-
+   description: FolioDynamix is leading the evolution of the wealth management experience, with an end-to-end technology solution paired with a suite of advisory tools including model portfolios, research, and overlay management services.
 #Education is required
 education:
  - level: Bachelor of Engineering (B.E)
