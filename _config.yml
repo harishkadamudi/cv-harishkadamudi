@@ -57,27 +57,18 @@ roles:
 
 #Roles and Responsibilites
 Responsibilites:
- - Docker
- - Docker Compose
- - Hystrix
- - Micro Service Architecture
- - NGINX API
- - MongoDB
- - Spring JDBC
- - Spring MVC
- - Spring Boot
- - Spring Core
- - Spring Integration
- - Spring WebFlow
- - Spring REST
- - REST
- - Hibernate
- - Activiti Workflow
- - JBoss BPM
- - Java
- - J2EE
- - Ext Js
- - Tech Architecture
+ - Responsible for Architecturing Legacy Application(Multi page application) to Advisory Portal Application(Single Page Application) using REST architecture and Ext JS 6.0.
+ - Designing REST API Design - Resource Modelling.
+ - Writing modular application and following Sonar Reports to close project finding.
+ - Branding the application to be used by Many clients, with different deployment types like shared and dedicated environments.
+ - Write ANT scripts to support client requirements for Branding the application and deployments.
+ - Document REST API using Swagger framework.
+ - Requirement gathering through JIRA, and follow JIRA life cycle in Analysing, Clarification, Estimating, and Developing the requirement.
+ - Coordinate with internal and external resources as necessary, Familiarise the team with the customer needs, specifications, design targets, the development process, design standards,
+   techniques and tools to support task performance
+ - Ensure deliverable are prepared to satisfy the project requirements, cost and schedule and Help keep the team focused and on track.
+ - Provide status reporting of team activities against the program plan or schedule, Keep the project manager and product committee informed of task accomplishment, issues and status
+
  
 #Education is required
 education:
