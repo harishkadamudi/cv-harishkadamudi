@@ -22,27 +22,27 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Docker.
- - Docker Compose.
- - Hystrix.
- - Micro Service Architecture.
- - NGINX API.
- - MongoDB.
- - Spring JDBC.
- - Spring MVC.
- - Spring Boot.
- - Spring Core.
- - Spring Integration.
- - Spring WebFlow.
- - Spring REST.
- - REST.
- - Hibernate.
- - Activiti Workflow.
- - JBoss BPM.
- - Java.
- - J2EE.
- - Ext Js.
- - Tech Architecture.
+ - Docker
+ - Docker Compose
+ - Hystrix
+ - Micro Service Architecture
+ - NGINX API
+ - MongoDB
+ - Spring JDBC
+ - Spring MVC
+ - Spring Boot
+ - Spring Core
+ - Spring Integration
+ - Spring WebFlow
+ - Spring REST
+ - REST
+ - Hibernate
+ - Activiti Workflow
+ - JBoss BPM
+ - Java
+ - J2EE
+ - Ext Js
+ - Tech Architecture
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 
@@ -103,5 +103,4 @@ additionalinfo: |
    <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC framework (although current role uses ColdFusion for server side web stack). I have also worked with some client side technology, having used jQuery, Bootstrap, LESS, SASS and have also experimented with other interesting technologies such as Backbone/Underscore/Require.<br/><br/>
    <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
    I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/Parse. <br/><br/>
-   As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="http://projects.spring.io/spring-social/">http://projects.spring.io/spring-social/</a>. <br/><br/>
-   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="http://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
+   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="https://techypark.wordpress.com/">https://techypark.wordpress.com/</a>.
