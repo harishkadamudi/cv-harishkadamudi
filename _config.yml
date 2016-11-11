@@ -54,6 +54,17 @@ roles:
    end: Ongoing
    employer: Nous Info System.
    description: FolioDynamix is leading the evolution of the wealth management experience, with an end-to-end technology solution paired with a suite of advisory tools including model portfolios, research, and overlay management services.
+#Roles and Responsibilites
+responsibilities:
+ -	Understanding Wealth Management Domain, Analyzing, Designing & Delivering highly complex customer requirements.
+ -	Sole owner in Architecting Advisor Portal application.
+ -	Developed Single Page application (SPA) from the scratch, which involves technologies like JAX-RS, Ext JS, and EJB 2.x.
+ -	Responsible for responsive web design & Creating Base layout so that team members can leverage from Base Layout.
+ -	Creating complex Ext JS UI components driven from DB, developed highly customizable custom components in Ext JS.
+ -	Responsible for Client branding, extensively used SCSS and Compass to design dynamic client branding for multiple clients.
+ -	Writing well defined REST layers.
+ -	As a team lead, Create an environment oriented to trust, open communication, creative thinking, and cohesive team effort, Coach and help develop team members help resolve dysfunctional behavior
+
 #Education is required
 education:
  - level: Bachelor of Engineering (B.E)
