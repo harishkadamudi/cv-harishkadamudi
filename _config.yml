@@ -59,10 +59,10 @@ roles:
 Responsibilites:
  - Responsible for Architecturing Legacy Application(Multi page application) to Advisory Portal Application(Single Page Application) using REST architecture and Ext JS 6.0.
  - Designing REST API Design - Resource Modelling.
+ - Document REST API using Swagger framework.
  - Writing modular application and following Sonar Reports to close project finding.
  - Branding the application to be used by Many clients, with different deployment types like shared and dedicated environments.
- - Write ANT scripts to support client requirements for Branding the application and deployments.
- - Document REST API using Swagger framework.
+ - Wrote ANT scripts to support client requirements for Branding the application and deployments.
  - Requirement gathering through JIRA, and follow JIRA life cycle in Analysing, Clarification, Estimating, and Developing the requirement.
  - Coordinate with internal and external resources as necessary, Familiarise the team with the customer needs, specifications, design targets, the development process, design standards,
    techniques and tools to support task performance
