@@ -33,6 +33,7 @@ skills:
  - Spring Boot
  - Spring Core
  - Spring Integration
+ - Spring Security
  - Spring WebFlow
  - Spring REST
  - REST
@@ -42,7 +43,18 @@ skills:
  - Java
  - J2EE
  - Ext Js
- - Tech Architecture
+ - Javascript
+ - Oracle
+ - DB2
+ - MySQL
+ - MSSQL
+ - JBOSS
+ - WebLogic
+ - WebSphere
+ - Apahce Tomcat
+ - TestNG
+ - Junit
+ - DBUnit
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 
