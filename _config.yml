@@ -70,7 +70,7 @@ skills:
 roles:
  - title: Lead Software Engineer
    start: May 2017
-   end: Ongoing
+   end: ongoing
    employer: JP Morgan Service India Private Limited
    description: JP Morgan Service India Private Limited
  - title: Module Lead
@@ -83,42 +83,26 @@ roles:
    end: Nov 2015
    employer: HCL Technologies.
    description: Deutsche Bank.
- 
  - title: Software Engineer
    start: Aug 2010
-   end: May 2013
+   end:  May 2013
    employer: Core Business Software Solutions.
    description: Benir E-Store Solutions.
    
 #Roles and Responsibilites
 Responsibilites:
-  -	Design, deploy, and manage our cloud infrastructure using leading cloud platforms such as Amazon Web Services (AWS), GKP (self-hosted), or EKS (AWS).
-  -	Design, develop, and deploy backend services and applications using the Java/Go/NodeJs programming language.
-  -	Collaborate with product managers, designers, and other developers to understand requirements and translate them into technical solutions.
-  -	Write clean, efficient, and maintainable code that follows best practices and coding standards.
-  -	Implement and maintain unit tests and integration tests to ensure code quality and reliability.
-  -	Optimize application performance and scalability through profiling, tuning, and code refactoring.
-  -	Provide strategic guidance on cloud architecture, microservices, containerization, and serverless computing to drive innovation and efficiency.
-  -	Collaborate with cross-functional teams to integrate software components and ensure smooth system integration.
-  -	Develop and implement cloud-based architectures, including networking, storage, compute, and security components, to meet the needs of our applications and services.
-  -	Optimize the performance and cost-efficiency of cloud resources by leveraging cloud-native services and applying industry best practices.
-  -	Collaborate with development teams to define and implement cloud deployment strategies, including continuous integration/continuous deployment (CI/CD) pipelines.
-  -	Monitor and troubleshoot cloud infrastructure to ensure high availability, reliability, and performance.
-  -	Implement security measures to protect cloud-based resources, including identity and access management, encryption, and security monitoring.
-  -	Collaborate with cross-functional teams, including developers, system administrators, and network engineers, to drive effective cloud integration and interoperability.
-  -	Document technical procedures, guidelines, and best practices related to cloud infrastructure and operations.
-  -	Participate in Agile/Scrum development practices, including sprint planning, stand-up meetings, and retrospectives.
-  -	Being a part of efft-cloud engineering, we were the first one to adopt hybrid cloud strategy within EFP, running successfully since 2017.
-  -	Evaluating Kubernetes with various business cases to adopt containers.
-  -	In POC stage, we have picked up existing business applications and containerized it and evaluating Kubernetes as a platform to extra the benefits of container ecosystem (GKS).
-  -	Built design/architecture plans and enhance existing solutions to migrate or to adopt cloud and contribute to the design of the target Hosting & Operations model according to the business needs.
-  -	Customized Service Discovery (eureka server), API gateway (Zuul Server) to suite hybrid cloud computing, i.e. to run on platforms like Physical/virtual boxes and GAIA (cloud foundry).
-  -	Successfully migrated over 50+ applications across Principal Lending (Equities) and Agency Lending (Investor Service).
-  -	Built common module using spring-boot to eliminate common configuration in client applications.
-  -	Enhanced Zuul for request tracing and tracing the Instance served the request along with time taken to respond.
-  -	Enhanced Zipkin to trace Apache http client requests, by default Sleuth instrument only Rest Client.
-  -	Early adopters of Jules(CD/CI tool), contributed to GAIA (cloud foundry) AIM deployment.
-  -	Collaborated with SRE in building common module, ex. oracle Tracing System
+ 
+ - Responsible for Architecturing Legacy Application(Multi page application) to Advisory Portal Application(Single Page Application) using REST architecture and Ext JS 6.0.
+ - Designing REST API Design - Resource Modelling.
+ - Document REST API using Swagger framework.
+ - Writing modular application and following Sonar Reports to close project finding.
+ - Branding the application to be used by Many clients, with different deployment types like shared and dedicated environments.
+ - Wrote ANT scripts to support client requirements for Branding the application and deployments.
+ - Requirement gathering through JIRA, and follow JIRA life cycle in Analysing, Clarification, Estimating, and Developing the requirement.
+ - Coordinate with internal and external resources as necessary, Familiarise the team with the customer needs, specifications, design targets, the development process, design standards,
+   techniques and tools to support task performance
+ - Ensure deliverable are prepared to satisfy the project requirements, cost and schedule and Help keep the team focused and on track.
+ - Provide status reporting of team activities against the program plan or schedule, Keep the project manager and product committee informed of task accomplishment, issues and status
 
  
 #Education is required
@@ -165,13 +149,28 @@ stackoverflow:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-
-  Nearly <strong>13 years of experience</strong>: in requirement analysis, software design, development, implementation, support and management for software like Banking Finance Wealth Management, Real Estate and Insurance Solutions, Strategic Enterprise Solutions, Micro Services Architecture, Multi-Tier Distributed Architecture, e-Commerce / internet applications
-  Highly accomplished senior engineer with extensive expertise in cloud adoption, architectural design, and data operations. With a proven track record of delivering exceptional technical solutions. I possess the skills, experience, and insights to seamlessly transition applications, computing platforms, and data operations to the cloud. 
-  Certified AWS solution Architect and MongoDB Certified Developer. <br/><br/>
-   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have extensively worked on Spring MVC, Spring Boot, Hibernate frameworkds.
+   <strong>Cloud Platforms</strong>: Proficiency in cloud platforms such as Amazon Web Services (AWS), GKP (self-hosted). Understanding the core services, infrastructure, and management capabilities of the chosen cloud platform is essential.<br/><br/>
+   <strong>Infrastructure-as-a-Service (IaaS)</strong>: Experience with Infrastructure-as-Code tools like Terraform or Ansible for provisioning and managing infrastructure resources required by Kubernetes, including virtual machines, storage, and networking.<br/><br/>
+   <strong>Platform-as-a-Service (PaaS)</strong>: Familiarity with PaaS offerings, such as AWS Elastic Beanstalk, or Google App Engine, and the ability to deploy, manage, and scale applications on these platforms.<br/><br/>
+   <strong>Software-as-a-Service (SaaS)</strong>: Understanding of SaaS models and experience working with cloud-based software applications and services.<br/><br/>
+   <strong>Infrastructure as Code (IaC)</strong>: Experienced in working with tools such as Terraform, CloudFormation, Infrastructure Abstraction, Configuration Management.<br/><br/>
+   <strong>Developer Experience (DX)</strong>:  Documentation, SDKs and Tooling, Sample Code and Tutorials, Community and Support, Integration and Interoperability, Continuous Improvement and Iterative Improvement.<br/><br/>
+   <strong>Cloud Security</strong>: Knowledge of cloud security best practices, including identity and access management (IAM), encryption, network security groups, and security monitoring in the cloud environment.<br/><br/>
+   <strong>Serverless Computing</strong>: Proficiency in serverless computing concepts and experience with serverless platforms like AWS Lambda, for building event-driven, scalable, and cost-effective applications.<br/><br/>
+   <strong>Containers and Orchestration</strong>: Knowledge of containerization technologies such as Docker and container orchestration platforms like Kubernetes for building and managing containerized applications in the cloud.<br/><br/>
+   <strong>Kubernetes</strong>: Expertise in Kubernetes, including in-depth knowledge of its architecture, components, and core concepts such as pods, deployments, services, ingress, persistent volumes, and namespaces.<br/><br/>
+   <strong>Kubernetes Operators</strong>: Familiarity with Kubernetes Operators, which enable the automation of complex application management tasks, and the ability to design and develop custom Operators using tools like Operator SDK.<br/><br/>
+   <strong>Hybrid and Multi-cloud Environments</strong>: Experience in designing and managing hybrid cloud or multi-cloud environments, including integrating on-premises infrastructure with cloud resources and managing cloud services across multiple providers.<br/><br/>
+   <strong>Programming Languages</strong>: Expertise in one or more programming languages, such as Java (spring framework), Golang, NodeJs, Python, JavaScript and Ruby, with a deep understanding of language-specific features, syntax, and best practices.<br/><br/>
+   <strong>Database Design and Management</strong>: Experience in designing and working with relational databases (e.g., MySQL, PostgreSQL, Oracle) or NoSQL databases (e.g., MongoDB, Redis), including data modeling, indexing, query optimization, and database administration.<br/><br/>
+   <strong>Software Security</strong>: Knowledge of software security principles, secure coding practices, and common vulnerabilities (e.g., OWASP Top 10) to develop secure and resilient software applications.<br/><br/>
+   <strong>API Development</strong>: Knowledge of designing and building RESTful or GraphQL APIs, including API documentation, versioning, authentication, and authorization mechanisms.<br/><br/>
+   <strong>JVM</strong>: I am experienced in a variety of Java API’s and frameworks. I have extensively worked on Spring MVC, Spring Boot, Hibernate frameworkds. <br/><br/>
    I have rich set of experience in designing and developing Microservice application using frameworks like nginx, Ribbon,Spring Boot and containers like Docker & Docker Compose.<br/><br/>
    <strong>Web Development</strong>: My server side web development experience has largely been based on the Spring MVC/REST framework. I have also worked with client side technology, having used Ext JS, Javascript, Angular2,jQuery, Bootstrap, LESS, SASS and have also experimented with other interesting technologies such as Backbone/Underscore/Require.<br/><br/>
    <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git,CVS, Maven, Gradle, Sonar and Jenkins. I have experience with an array of testing tools and technologies.<br/><br/>
    I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as Amazon AWS/CloudFoundry/OpenShift/AppFog/Parse. <br/><br/>
+   <strong>Testing and Quality Assurance</strong>: Expertise in various testing methodologies, including unit testing, integration testing, and automated testing frameworks (e.g., JUnit, NUnit, Selenium), to ensure software quality and reliability.<br/><br/>
+   <strong>Project Management</strong>: Familiarity with project management methodologies and tools, including task management, agile boards (e.g., Jira, Trello), and project tracking, to effectively plan, prioritize, and deliver software projects. <br/><br/>
+   <strong>Certification</strong>: Certified AWS solution Architect and MongoDB Certified Developer. <br></br>
    I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="https://techypark.wordpress.com/">https://techypark.wordpress.com/</a>.
