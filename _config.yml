@@ -68,9 +68,14 @@ skills:
 
 #Work experience is required
 roles:
+ - title: Lead Software Engineer
+   start: May 2017
+   end: Ongoing
+   employer: JP Morgan Service India Private Limited
+   description: JP Morgan Service India Private Limited
  - title: Module Lead
    start: Jan 2015
-   end: Ongoing
+   end: May 2017
    employer: Nous Info System.
    description: <a target='_blank' href='http://www.foliodynamix.com'>FolioDynamix</a> is leading the evolution of the wealth management experience, with an end-to-end technology solution paired with a suite of advisory tools including model portfolios, research, and overlay management services.
  - title: Senior Software Engineer
@@ -78,14 +83,10 @@ roles:
    end: Nov 2015
    employer: HCL Technologies.
    description: Deutsche Bank.
- - title: Software Engineer
-   start: Aug 2012
-   end: May 2013
-   employer: SPI Products, Platforms & Solutions.
-   description: Trade Flow Optimization.
+ 
  - title: Software Engineer
    start: Aug 2010
-   end: July 2012
+   end: May 2013
    employer: Core Business Software Solutions.
    description: Benir E-Store Solutions.
    
