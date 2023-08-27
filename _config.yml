@@ -24,12 +24,17 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
+ - containers
+ - Kubernetes
  - Docker
+ - Kubernetes Operators
+ - Envoy
  - Docker Compose
  - Hystrix
  - Micro Service Architecture
  - NGINX API
  - MongoDB
+ - Golang
  - Spring JDBC
  - Spring MVC
  - Spring Boot
