@@ -127,6 +127,19 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
+ - harishkadamudi/client-go-example
+ - harishkadamudi/aws-eks-kubernetes-masterclass 
+ - harishkadamudi/client-go-demo 
+ - harishkadamudi/opa-istio-policy
+ - harishkadamudi/sapt
+ - harishkadamudi/kube-mutating-webhook-tutorial 
+ - harishkadamudi/minimal-opa-envoy-example
+ - harishkadamudi/sidecar-injector
+ - harishkadamudi/kubernetes-handbook
+ - harishkadamudi/spring-boot-data-jpa-mysql-docker-composer
+ - harishkadamudi/spring-boot-data-source-decorator 
+ - harishkadamudi/angular-spring-dynamic-form 
+ - harishkadamudi/notes 
  - harishkadamudi/HarishExamples
  - harishkadamudi/spring-mongodb
  - harishkadamudi/spring-multi-model
