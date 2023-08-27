@@ -91,17 +91,33 @@ roles:
    
 #Roles and Responsibilites
 Responsibilites:
- - Responsible for Architecturing Legacy Application(Multi page application) to Advisory Portal Application(Single Page Application) using REST architecture and Ext JS 6.0.
- - Designing REST API Design - Resource Modelling.
- - Document REST API using Swagger framework.
- - Writing modular application and following Sonar Reports to close project finding.
- - Branding the application to be used by Many clients, with different deployment types like shared and dedicated environments.
- - Wrote ANT scripts to support client requirements for Branding the application and deployments.
- - Requirement gathering through JIRA, and follow JIRA life cycle in Analysing, Clarification, Estimating, and Developing the requirement.
- - Coordinate with internal and external resources as necessary, Familiarise the team with the customer needs, specifications, design targets, the development process, design standards,
-   techniques and tools to support task performance
- - Ensure deliverable are prepared to satisfy the project requirements, cost and schedule and Help keep the team focused and on track.
- - Provide status reporting of team activities against the program plan or schedule, Keep the project manager and product committee informed of task accomplishment, issues and status
+  -	Design, deploy, and manage our cloud infrastructure using leading cloud platforms such as Amazon Web Services (AWS), GKP (self-hosted), or EKS (AWS).
+  -	Design, develop, and deploy backend services and applications using the Java/Go/NodeJs programming language.
+  -	Collaborate with product managers, designers, and other developers to understand requirements and translate them into technical solutions.
+  -	Write clean, efficient, and maintainable code that follows best practices and coding standards.
+  -	Implement and maintain unit tests and integration tests to ensure code quality and reliability.
+  -	Optimize application performance and scalability through profiling, tuning, and code refactoring.
+  -	Provide strategic guidance on cloud architecture, microservices, containerization, and serverless computing to drive innovation and efficiency.
+  -	Collaborate with cross-functional teams to integrate software components and ensure smooth system integration.
+  -	Develop and implement cloud-based architectures, including networking, storage, compute, and security components, to meet the needs of our applications and services.
+  -	Optimize the performance and cost-efficiency of cloud resources by leveraging cloud-native services and applying industry best practices.
+  -	Collaborate with development teams to define and implement cloud deployment strategies, including continuous integration/continuous deployment (CI/CD) pipelines.
+  -	Monitor and troubleshoot cloud infrastructure to ensure high availability, reliability, and performance.
+  -	Implement security measures to protect cloud-based resources, including identity and access management, encryption, and security monitoring.
+  -	Collaborate with cross-functional teams, including developers, system administrators, and network engineers, to drive effective cloud integration and interoperability.
+  -	Document technical procedures, guidelines, and best practices related to cloud infrastructure and operations.
+  -	Participate in Agile/Scrum development practices, including sprint planning, stand-up meetings, and retrospectives.
+  -	Being a part of efft-cloud engineering, we were the first one to adopt hybrid cloud strategy within EFP, running successfully since 2017.
+  -	Evaluating Kubernetes with various business cases to adopt containers.
+  -	In POC stage, we have picked up existing business applications and containerized it and evaluating Kubernetes as a platform to extra the benefits of container ecosystem (GKS).
+  -	Built design/architecture plans and enhance existing solutions to migrate or to adopt cloud and contribute to the design of the target Hosting & Operations model according to the business needs.
+  -	Customized Service Discovery (eureka server), API gateway (Zuul Server) to suite hybrid cloud computing, i.e. to run on platforms like Physical/virtual boxes and GAIA (cloud foundry).
+  -	Successfully migrated over 50+ applications across Principal Lending (Equities) and Agency Lending (Investor Service).
+  -	Built common module using spring-boot to eliminate common configuration in client applications.
+  -	Enhanced Zuul for request tracing and tracing the Instance served the request along with time taken to respond.
+  -	Enhanced Zipkin to trace Apache http client requests, by default Sleuth instrument only Rest Client.
+  -	Early adopters of Jules(CD/CI tool), contributed to GAIA (cloud foundry) AIM deployment.
+  -	Collaborated with SRE in building common module, ex. oracle Tracing System
 
  
 #Education is required
