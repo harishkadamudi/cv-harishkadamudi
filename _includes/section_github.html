@@ -4,7 +4,7 @@
 			<h1>Projects I am currently Working On!!</h1>
 		</div>
 		<div class="content-rounded-panel" style="overflow: hidden;">
-			<div>
+			<div style = "height: 300px; overflow-y: auto;">
 				{% for project in site.github %}
 					{% assign loopindex = forloop.index | modulo: 2 %}
 					{% if loopindex == 1 %}
